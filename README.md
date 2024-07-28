@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**tiagofernandess/tiagofernandess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou Tiago Fernandes
 
-Here are some ideas to get you started:
+Programador Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Desenvolvendo projetos com HTML e CSS
+<br>
+🔹 Iniciando a jornada com JavaScript e React
+<br>
+🔹 Sempre em busca de novos desafios e aprendizados
+
+🔗 Conecte-se comigo no LinkedIn: Tiago Fernandes
+<br>
+<br>
+
+
+[![Tiago Stats](https://github-readme-stats.vercel.app/api?username=tiagofernandess)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofernandess)](https://github.com/anuraghazra/github-readme-stats)
+
